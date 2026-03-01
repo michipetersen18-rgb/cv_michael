@@ -1,11 +1,11 @@
 ---
 title: "Near-Field Direct Write Electrospinning of PET-Carbon Quantum Dot Solutions"
 collection: publications
-category: manuscripts
+category: article
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
-venue: 'Journal 1'
+venue: 'Journal Materials'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
