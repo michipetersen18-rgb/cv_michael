@@ -8,7 +8,7 @@ date: 2015-10-01
 venue: 'Journal Materials'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: 'https://michipetersen18-rgb.github.io/cv_michael/files/bibtex1.bib'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
