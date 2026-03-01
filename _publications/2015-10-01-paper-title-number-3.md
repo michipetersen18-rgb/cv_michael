@@ -12,4 +12,4 @@ bibtexurl: 'https://michipetersen18-rgb.github.io/cv_michael/files/bibtex1.bib'
 citation: 'Petersen, Michael. (2024). &quot;Near-Field Direct Write Electrospinning of PET-Carbon Quantum Dot Solutions.&quot; <i>Journal Materials</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+#The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
