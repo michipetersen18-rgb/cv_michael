@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Fibigerstræde 16, Aalborg, Denmark"
-  employer         : |-  "Aalborg university (AAU) MA­TE­RIALS AND PRO­DUC­TION"
+  employer         : "Aalborg university (AAU) \N MA­TE­RIALS AND PRO­DUC­TION"
   uri              :  "https://www.mp.aau.dk/"
   email            : "mpete23@student.aau.dk" 
 
