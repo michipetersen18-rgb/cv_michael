@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Near-Field Direct Write Electrospinning of PET-Carbon Quantum Dot Solutions"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
