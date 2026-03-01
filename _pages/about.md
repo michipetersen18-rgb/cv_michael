@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Michael Petersen"
+title: "interest"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 
-interest 
-===
