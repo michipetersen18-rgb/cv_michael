@@ -27,9 +27,9 @@ author:
   name             : "Michael Petersen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "AAU"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Fibigerstræde 16, Aalborg, Denmark"
+  employer         : "Aalborg university (AAU) MA­TE­RIALS AND PRO­DUC­TION"
+  uri              :  "https://www.mp.aau.dk/"
   email            : "none@example.org" 
 
   # Academic websites
