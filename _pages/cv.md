@@ -23,7 +23,7 @@ educational lectures and project experience
 
 
 
-
+&nbsp;
 * 1 semester coures
     * Electromagntisme 1
     * problem based learning (PBL)
