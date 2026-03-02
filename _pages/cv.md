@@ -63,7 +63,7 @@ educational lectures and project experience
     * Chemistry of biological nanostructures
     * Sensors, components and devices
 * project
-    * 
+  
 
  
 
