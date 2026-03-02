@@ -38,7 +38,7 @@ educational lectures and project experience
     * General and inorganic chemistry
     * Basic mechanics and thermodynamics
 * project
-    * Electrospinning (Near field electrossping of pet fibers with carbon quantum dots)
+    * Electrospinning (Near field electrospinning of pet fibers with carbon quantum dots)
 
 
 &nbsp;  
