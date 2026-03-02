@@ -14,7 +14,22 @@ protein engineering machine learning using different programs like RFD 3, ligand
 
 languages
 ===
+<p align="center">
+  <span style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="images/dansk_flag.png" width="110"><br>
+    USA
+  </span>
 
+  <span style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="images/tysk_flag.png" width="110"><br>
+    Germany
+  </span>
+
+  <span style="display: inline-block; text-align: center; margin: 0 15px;">
+    <img src="images/engelsk_flag.png" width="110"><br>
+    Japan
+  </span>
+</p>
 
 <p align="center">
   <img src="images/dansk_flag.png" width="160" />
