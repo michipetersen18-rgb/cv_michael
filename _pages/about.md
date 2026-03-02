@@ -20,40 +20,7 @@ languages
 
 | <img src="images/dansk_flag.png" width="95"> | <img src="images/engelsk_flag.png" width="95"> | <img src="images/tysk_flag.png" width="95"> |
 |:--:|:--:|:--:|
-| <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | <sub>native</sub> | <sub>intermediate</sub> | <sub>native</sub> |
 
 
 
-<p align="center">
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="images/dansk_flag.png" width="110"><br>
-    USA
-  </span>
-
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="images/tysk_flag.png" width="110"><br>
-    Germany
-  </span>
-
-  <span style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="images/engelsk_flag.png" width="110"><br>
-    Japan
-  </span>
-</p>
-
-<p align="center">
-  <img src="images/dansk_flag.png" width="160" />
-   &nbsp;&nbsp;&nbsp;
-  <img src="images/tysk_flag.png" width="200" />
-   &nbsp;&nbsp;&nbsp;
-   <img src="images/engelsk_flag.png" width="200" />
-</p>
----
-<p align="center">
-  <Native />
-   &nbsp;&nbsp;&nbsp;
-  < Native />
-   &nbsp;&nbsp;&nbsp;
-   < intermediate  />
-</p>
