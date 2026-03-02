@@ -24,4 +24,10 @@ languages
    <img src="images/engelsk_flag.png" width="200" />
 </p>
 ---
-
+<p align="center">
+  <Native />
+   &nbsp;&nbsp;&nbsp;
+  < Native />
+   &nbsp;&nbsp;&nbsp;
+   < intermediate  />
+</p>
