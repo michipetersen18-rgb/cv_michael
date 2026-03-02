@@ -17,7 +17,7 @@ language
 
 
 <p align="center">
-  <img src="cv_micahel/images/dansk_flag.png" width="200" />
+  <img src="images/dansk_flag.png" width="200" />
  # <img src="image2.png" width="200" />
   # <img src="image3.png" width="200" />
 </p>
