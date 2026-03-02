@@ -20,12 +20,13 @@ educational lectures and project experience
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-*1 semester coures
+
+* 1 semester coures
     * electromagntisme 1
     * problem based learning (PBL)
     * calculus
-*project
-    *P2: Electrospinning
+* project
+    * P2: Electrospinning
 
  
 
