@@ -17,7 +17,7 @@ language
 
 
 <p align="center">
-  <img src="images/dansk_flag.png" width="200" />
+  <img src="images/dansk_flag.png" width="150" />
    &nbsp;&nbsp;&nbsp;
   <img src="images/tysk_flag.png" width="200" />
    &nbsp;&nbsp;&nbsp;
