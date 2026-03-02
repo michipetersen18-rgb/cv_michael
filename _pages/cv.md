@@ -27,6 +27,8 @@ educational lectures and project experience
     * calculus
 * project
     * Measuring on nanoscale - A look into Absorptions Spectroscopy and Atomic Force Microscopy
+ 
+
 &nbsp;  
 * 2 semester coures
     * linear algebra
@@ -34,6 +36,8 @@ educational lectures and project experience
     * Basic mechanics and thermodynamics
 * project
     * P2:Electrospinning
+
+
 &nbsp;  
 * 3 semester coures
     * Electromagntisme 2
@@ -41,6 +45,8 @@ educational lectures and project experience
     * Organic and polymer chemistry
 * project
     * Synthesis and characterization of PCL-b-PMMA Block Copolymers
+
+
 &nbsp;  
 * 4 semester coures
     * Basic quantum mechanics
@@ -49,6 +55,8 @@ educational lectures and project experience
     * optics workshop
 * project
     * Design, Synthesis and Characterization of Antimicrobial Peptides
+
+
 &nbsp;  
 * 5 semester coures
     * protein physics
@@ -56,6 +64,8 @@ educational lectures and project experience
     * energy physics
 * project
     * Protein Engineering
+
+
 &nbsp;  
 
 * 6 semester coures
