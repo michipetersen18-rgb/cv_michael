@@ -21,6 +21,9 @@ educational lectures and project experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
+
+
+
 * 1 semester coures
     * Electromagntisme 1
     * problem based learning (PBL)
