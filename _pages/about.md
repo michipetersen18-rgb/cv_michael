@@ -14,6 +14,17 @@ protein engineering machine learning using different programs like RFD 3, ligand
 
 languages
 ===
+
+
+### Languages
+
+| <img src="images/dansk_flag.png" width="95"> | <img src="images/engelsk_flag.png" width="95"> | <img src="images/tysk_flag.png" width="95"> |
+|:--:|:--:|:--:|
+| <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| <sub>native</sub> | <sub>intermediate</sub> | <sub>native</sub> |
+
+
+
 <p align="center">
   <span style="display: inline-block; text-align: center; margin: 0 15px;">
     <img src="images/dansk_flag.png" width="110"><br>
