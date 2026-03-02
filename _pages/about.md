@@ -18,8 +18,8 @@ language
 
 <p align="center">
   <img src="images/dansk_flag.png" width="200" />
- # <img src="images/tysk_flag.png" width="200" />
-  # <img src="image3.png" width="200" />
+  <img src="images/tysk_flag.png" width="200" />
+   <img src="image3.png" width="200" />
 </p>
 ---
 
