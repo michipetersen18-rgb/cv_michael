@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-* Ai/Ml de novo design of proteins
-protein engineering machine learning using different programs like RFD 3, ligandMPNN and rosetta's matching system. to design novol, as can be seen in the animation below:
+*AI/ML-Driven De Novo Protein Design
 
+Protein engineering using machine learning and tools such as RFdiffusion 3 (RFD3), LigandMPNN, and Rosetta’s matching system to design novel proteins, as demonstrated in the animation below.
 
 
 
