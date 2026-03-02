@@ -66,7 +66,7 @@ educational lectures and project experience
     * Nanofabrication
     * energy physics
 * project
-    * Protein Engineering
+    * Protein Engineering (Computational Modeling of PETase Crystalline-Structure Enzyme)
 
 
 &nbsp;  
