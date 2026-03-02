@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-### AI/ML-Driven De Novo Protein Design
-### wet lab work 
-### mathematical statistics
+- AI/ML-Driven De Novo Protein Design
+- wet lab work
+- mathematical statistics
+
+
+
 
 Protein engineering using machine learning and tools such as RFdiffusion 3 (RFD3), LigandMPNN, and Rosetta’s matching system to design novel proteins, as demonstrated in the animation below.
 
