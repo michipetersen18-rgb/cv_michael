@@ -26,21 +26,21 @@ educational lectures and project experience
     * problem based learning (PBL)
     * calculus
 * project
-    * Measuring on nanoscale - A look into Absorptions Spectroscopy and Atomic Force Microscopy
+    * Measuring on nanoscale - A look into Absorptions Spectroscopy and Atomic Force Microscopy<br>
 
 * 2 semester coures
     * linear algebra
     * General and inorganic chemistry
     * Basic mechanics and thermodynamics
 * project
-    * P2:Electrospinning 
+    * P2:Electrospinning<br> 
 
 * 3 semester coures
     * Electromagntisme 2
     * Solid state physics I: Geometric structure
     * Organic and polymer chemistry
 * project
-    * Synthesis and characterization of PCL-b-PMMA Block Copolymers
+    * Synthesis and characterization of PCL-b-PMMA Block Copolymers<br>
 
 * 4 semester coures
     * Basic quantum mechanics
@@ -48,14 +48,14 @@ educational lectures and project experience
     * Physical chemistry and electrochemistry
     * optics workshop
 * project
-    * Design, Synthesis and Characterization of Antimicrobial Peptides
+    * Design, Synthesis and Characterization of Antimicrobial Peptides<br>
 
 * 5 semester coures
     * protein physics
     * Nanofabrication
     * energy physics
 * project
-    * Protein Engineering
+    * Protein Engineering<br>
 
 
 * 6 semester coures
@@ -63,7 +63,7 @@ educational lectures and project experience
     * Chemistry of biological nanostructures
     * Sensors, components and devices
 * project
-  
+  <br>
 
  
 
