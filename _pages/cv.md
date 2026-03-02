@@ -14,27 +14,26 @@ Education
 
 * B.S. in Physics and Technology, Aalborg universitet, 2026 
 
-Work experience
+educational lectures and project experience 
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
+*1 semester coures
+    * electromagntisme 1
+    * problem based learning (PBL)
+    * calculus
+*project
+    *P2: Electrospinning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* computational modeling of de novo proteins
-* enzyme catalysis 
+* Computational modeling of de novo proteins
+* Enzyme catalysis
 * Electrospinning
   
 
