@@ -23,7 +23,7 @@ Protein engineering using machine learning and tools such as RFdiffusion 3 (RFD3
 
 | <img src="images/dansk_flag.png" width="95"> | <img src="images/engelsk_flag.png" width="95"> | <img src="images/tysk_flag.png" width="95"> |
 |:--:|:--:|:--:|
-| <big>native</big> | **intermediate** | <sub>native</sub> |
+| **native** | **intermediate** | **native** |
 
 
 
