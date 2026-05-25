@@ -26,7 +26,7 @@ educational lectures and project experience
 &nbsp;
 * 1 semester coures
     * Electromagntisme 1
-    * problem based learning (PBL)
+    * Problem based learning (PBL)
     * calculus
 * project
     * Measuring on nanoscale - A look into Absorptions Spectroscopy and Atomic Force Microscopy
@@ -34,7 +34,7 @@ educational lectures and project experience
 
 &nbsp;  
 * 2 semester coures
-    * linear algebra
+    * Linear algebra
     * General and inorganic chemistry
     * Basic mechanics and thermodynamics
 * project
@@ -55,16 +55,16 @@ educational lectures and project experience
     * Basic quantum mechanics
     * Optics and spectroscopy
     * Physical chemistry and electrochemistry
-    * optics workshop
+    * Optics workshop
 * project
     * Design, Synthesis and Characterization of Antimicrobial Peptides
 
 
 &nbsp;  
 * 5 semester coures
-    * protein physics
+    * Protein physics
     * Nanofabrication
-    * energy physics
+    * Energy physics
 * project
     * Protein Engineering (Computational Modeling of PETase for Crystalline-Structure of PET)
 
@@ -72,23 +72,23 @@ educational lectures and project experience
 &nbsp;  
 
 * 6 semester coures
-    * genetic engineering
+    * Genetic engineering
     * Chemistry of biological nanostructures
     * Sensors, components and devices
 * project
   
 &nbsp;  
  * 7 semester coures
-    * molecular simulations
-    * fluid mechanics and reaction engineering
-    * advanced gene technology 
+    * Molecular simulations
+    * Fluid mechanics and reaction engineering
+    * Advanced gene technology 
 * project
 
 &nbsp; 
 
  * 8 semester coures
-    * supramolecular chemistry 
-    * physics and chemistry of surfaces
+    * Supramolecular chemistry 
+    * Physics and chemistry of surfaces
     * Lap on a chip 
 * project
 
@@ -108,7 +108,7 @@ Skills
 * Computational modeling of de novo proteins
 * Enzyme catalysis
 * Electrospinning
-* 3D printing extrusion and resin
+* 3D printing, extrusion, and resin
   
 
 Publications
