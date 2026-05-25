@@ -78,7 +78,29 @@ educational lectures and project experience
 * project
   
 &nbsp;  
- 
+ * 7 semester coures
+    * molecular simulations
+    * fluid mechanics and reaction engineering
+    * advanced gene technology 
+* project
+
+&nbsp; 
+
+ * 8 semester coures
+    * supramolecular chemistry 
+    * physics and chemistry of surfaces
+    * Lap on a chip 
+* project
+
+&nbsp; 
+
+ * 9-10 semester
+* project
+
+&nbsp; 
+
+
+
 
   
 Skills
@@ -86,6 +108,7 @@ Skills
 * Computational modeling of de novo proteins
 * Enzyme catalysis
 * Electrospinning
+* 3D printing extrusion and resin
   
 
 Publications
