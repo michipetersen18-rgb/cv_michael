@@ -77,7 +77,9 @@ educational lectures and project experience
     * Sensors, components and devices
 * project
     * PET DEGRADATION WITH DE NOVO DESIGNED ENZYMES
+  
 &nbsp;  
+
  * 7 semester coures
     * Molecular simulations
     * Fluid mechanics and reaction engineering
