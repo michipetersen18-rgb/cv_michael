@@ -76,7 +76,7 @@ educational lectures and project experience
     * Chemistry of biological nanostructures
     * Sensors, components and devices
 * project
-  
+    * PET DEGRADATION WITH DE NOVO DESIGNED ENZYMES
 &nbsp;  
  * 7 semester coures
     * Molecular simulations
